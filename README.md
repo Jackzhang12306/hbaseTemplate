@@ -1,0 +1,2 @@
+# hbaseTemplate
+提取spring开源框架中的hbaseTemplate模板代码为一个单独的项目
